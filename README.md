@@ -47,6 +47,7 @@ Code-1:
   </body>
 </html>
 '''
+
 Code-2:
 '''
 <!DOCTYPE html>
