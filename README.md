@@ -10,8 +10,9 @@ Explain how you can use CSS media queries to apply different styles based on the
 Describe how you would use media queries to adjust typography (like font size and line spacing) on a website to improve readability across different device sizes, from mobile phones to large desktop monitors. Include a CSS code snippet in your explanation.
 Media queries can be used to provide print-friendly styles for web pages. How would you use a media query to change the styling of a webpage when it is printed, such as changing the background to white and hiding non-essential elements? Provide a CSS example.
 With the increasing popularity of dark mode in user interfaces, explain how you would use a media query to detect if the user has set their system to prefer a dark color scheme. Provide an example of how you would change the background and text colors of a website based on this preference.
+
 Code-1:
-'''
+```
 <html>
   <head>
     <style type="text/css">
@@ -46,10 +47,10 @@ Code-1:
     <h1>web development class</h1>
   </body>
 </html>
-'''
+```
 
 Code-2:
-'''
+```
 <!DOCTYPE html>
 <html>
     <head>
@@ -91,9 +92,9 @@ Code-3:
         <h1>saveetha engineering college</h1>
     </body>
 </html>
-'''
+```
 Code-4:
-'''
+```
 <!DOCTYPE html>
 <html>
     <head>
@@ -131,9 +132,9 @@ Code-4:
         <h1>lets see how it differs from diffent devices</h1>
     </body>
 </html>
-'''
+```
 Code-5:
-'''
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -180,7 +181,7 @@ Code-6:
   <p>salini- 23008741- saveetha engineering college</p>
 </body>
 </html>
-'''
+```
 OUTPUT:
 1.
 ![Screenshot 2023-12-29 133630](https://github.com/Karthi-Govindharaju/ODD2023-WT-Ex-07-CSS/assets/145742862/8ed8d91d-12bd-4116-a215-dc20ad88223d)
